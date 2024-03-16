@@ -1,6 +1,6 @@
 # Coffee Machine Interface #
 
-This project provides a user interface (UI) for a coffee machine application built using Qt and QML.
+This project provides an user interface (UI) for a coffee machine application built using Qt and QML.
 
 ![Coffee Machine Interface](https://github.com/009Rambo/Coffee-Machine-Interface/blob/master/Coffee1.png)
 ![Coffee Machine Interface](https://github.com/009Rambo/Coffee-Machine-Interface/blob/master/Coffee2.png)
@@ -37,8 +37,8 @@ Clone the repository to your local machine using Git:
 - Monitor the status messages and timer display to track the progress.
 
 ### Contributing
-If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request. We welcome contributions of all kinds, including bug fixes, feature enhancements, and documentation improvements.
+If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request. I always welcome contributions of all kinds, including bug fixes, feature enhancements, and documentation improvements.
 
 ### License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. Visit the [Official MIT License page](https://opensource.org/licenses/MIT) for more details.
 
